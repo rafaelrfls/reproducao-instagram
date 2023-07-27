@@ -5,7 +5,7 @@ Projeto para reprodução da página de login do Instagram, colocando em prátic
 ## 🚀 Demonstração
 
 ![image](assets/img/readme-images/pagina.png)
-[Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
+[Clique aqui](https://rafaelrfls.github.io/reproducao-instagram/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
